@@ -54,4 +54,4 @@ jobs:
       - name: Solo log si es dry_run
         if: ${{inputs.dry_run}}
         run: |
-          echo "No se han aplicado los cambios"
+          echo "No se han aplicado los cambios 2"
