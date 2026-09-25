@@ -1,4 +1,5 @@
-package Controller;
+package DTO;
 
-public class SearchController {
+
+public class Person {
 }
